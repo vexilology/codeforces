@@ -1,8 +1,7 @@
 #include <iostream>
 
 int main() {
-  int w;
-  int a, b, sum=0, k=0;
+  int w, a, b, sum=0, k=0;
   std::cin >> w;
 
   for (int i=0; i<w; ++i) {
